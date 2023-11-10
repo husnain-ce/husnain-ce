@@ -2,7 +2,8 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;;Self-Driven+Cyber+Security+Researcher,;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;;
+Security Researcher,;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker.."></a>
 </p>
 
 
@@ -12,9 +13,9 @@
 <br>
 
 - A passionate Self-Driven Leader and Security Researcher.
-- Managing teams for Cyber Security Projects
-- Currently learning Cognitive Security
-- Iâ€™m currently open for an Cyber Security Job Roles and Services.
+- Managing teams for Cyber Security Projects.
+- Currently learning Cognitive Security.
+- I'm currently open for an Cyber Security Job Roles, Services & Projects.
 
 <br>
 
@@ -24,7 +25,7 @@
 ï»¿
 
 
-### ðŸ›  &nbsp;Tech Stack
+###›  &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

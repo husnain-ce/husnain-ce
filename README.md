@@ -1,4 +1,4 @@
-![](https://github.com/husnain-ce/husnain-ce/assets/69977638/fe23fad1-c161-4a84-b413-e019926834ca)
+[![Watch the video](https://github.com/husnain-ce/husnain-ce/assets/69977638/fe23fad1-c161-4a84-b413-e019926834ca)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Husnain!;I'm+a+Python+Lead+Developer...;I'm+also+Self+Driven+Leader;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)

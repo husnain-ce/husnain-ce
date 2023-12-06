@@ -1,6 +1,6 @@
 
 
-![Python](https://github.com/husnain-ce/husnain-ce/assets/69977638/4d344464-4711-483a-b61c-5dbf91646d0d)
+![](https://github.com/husnain-ce/husnain-ce/assets/69977638/4d344464-4711-483a-b61c-5dbf91646d0d)
 
 
 

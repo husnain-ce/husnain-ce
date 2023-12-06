@@ -1,5 +1,5 @@
 
-[! Gif profile](https://www.canva.com/design/DAFwyckSVqY/5eRSGXY71q7QbJJyr_YxuQ/watch?utm_content=DAFwyckSVqY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[!Gif profile](https://www.canva.com/design/DAFwyckSVqY/5eRSGXY71q7QbJJyr_YxuQ/watch?utm_content=DAFwyckSVqY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Husnain!;I'm+a+Python+Lead+Developer...;I'm+also+Self+Driven+Leader;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 

@@ -8,7 +8,7 @@
 </p>
 
 
-![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/profile-bg.gif)
+![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/profile-bg-1.gif)
 
 
 

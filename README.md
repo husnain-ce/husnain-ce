@@ -96,6 +96,9 @@
 </p>
 
 
+<div align="center">
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -107,6 +110,9 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/husnain-ce?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/husnain-ce/TranslatorSelenium/network/members)
 
+
+ 
+</div>
 
 
 

@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Husnain!;I'm+a+Python+Lead+Developer...;I'm+also+Self+Driven+Leader;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker.."></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker..">
+</a>
 </p>
 
 

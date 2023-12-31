@@ -30,7 +30,6 @@
 
 - A passionate Self-Driven Leader and Security Researcher.
 - Managing teams for Cyber Security Projects.
-- Currently learning Cognitive Security.
 - I'm currently open for an Cyber Security Job Roles, Services & Projects.
 
 

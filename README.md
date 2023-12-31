@@ -1,7 +1,8 @@
 
 ![](https://github.com/husnain-ce/husnain-ce/assets/69977638/4d344464-4711-483a-b61c-5dbf91646d0d)
 
-<div align="center">Hello</div>
+<div align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Husnain!;I'm+a+Python+Lead+Developer...;I'm+also+Self+Driven+Leader;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
@@ -9,6 +10,10 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker..">
 </a>
 </p>
+
+
+ 
+</div>
 
 
 ![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)

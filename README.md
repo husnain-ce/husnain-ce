@@ -15,10 +15,6 @@
  
 </div>
 
-![](https://github.com/husnain-ce/husnain-ce/blob/main/1.mp3)
-
-
-
 ![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)
 
 

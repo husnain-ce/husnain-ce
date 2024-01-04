@@ -15,10 +15,8 @@
  
 </div>
 
+![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/1.mp3)
 
-<audio autoplay loop>
-    <source src="1.mp3" type="audio/mpeg">
-</audio>
 
 
 ![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)

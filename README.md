@@ -16,6 +16,12 @@
 </div>
 
 
+<audio autoplay loop>
+    <source src="path_to_your_audio_file.mp3" type="audio/mpeg">
+
+</audio>
+
+
 ![Alt Text](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)
 
 

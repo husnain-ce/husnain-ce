@@ -10,6 +10,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker..">
 </a>
 </p>
+.
  
 </div>
 

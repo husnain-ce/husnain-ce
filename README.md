@@ -620,20 +620,42 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 
 <div align="center">
 
+### 📈 GitHub Stats
+
 <a href="https://github.com/husnain-ce">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=husnain-ce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=husnain-ce&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=husnain-ce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=husnain-ce&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 </a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2)
+### 🏆 GitHub Trophies
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=7&row=1&margin-w=15&margin-h=15)
 
-[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=for-the-badge)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+### 🔥 GitHub Streak
 
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/husnain-ce?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=for-the-badge">](https://github.com/husnain-ce?tab=repositories&q=&type=&language=&sort=stargazers)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/husnain-ce?&logoColor=red&style=for-the-badge">](https://github.com/husnain-ce?tab=followers)
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=husnain-ce&theme=github-dark&hide_border=true&area=true&height=300" alt="GitHub Activity Graph" width="100%"/>
+
+### 💻 Coding Activity
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=for-the-badge&logo=wakatime)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+
+</div>
+
+### ⭐ GitHub Metrics
+
+<div align="center">
+
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/husnain-ce?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20Stars&logo=github&logoColor=white&style=for-the-badge&color=FFD700">](https://github.com/husnain-ce?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/husnain-ce?label=Followers&logo=github&logoColor=white&style=for-the-badge&color=1F6FEB">](https://github.com/husnain-ce?tab=followers)
+[<img alt="GitHub contributions" src="https://img.shields.io/github/commit-activity/m/husnain-ce?label=Monthly%20Commits&logo=github&logoColor=white&style=for-the-badge&color=58A6FF">](https://github.com/husnain-ce)
+
+</div>
 
 </div>
 

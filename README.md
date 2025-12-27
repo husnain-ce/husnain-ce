@@ -441,146 +441,135 @@
 
 ---
 
-## 📋 Tech Stack Overview
+## 📋 Security & AI Tech Stack Overview
 
-### Programming Languages
+### Security-Focused Programming Languages
 
-| Language | Proficiency | Use Case |
-|----------|-------------|----------|
-| Python | Expert | Security tools, automation, web development |
-| JavaScript | Advanced | Frontend development, Node.js applications |
-| TypeScript | Advanced | Type-safe web applications |
-| Java | Advanced | Enterprise applications, Spring Boot |
-| Go | Intermediate | Microservices, cloud-native applications |
-| Rust | Intermediate | System programming, performance-critical apps |
-| C/C++ | Advanced | System programming, embedded systems |
-| PHP | Intermediate | Web development, server-side scripting |
-| Ruby | Intermediate | Web development, scripting |
-| Shell Script | Expert | Automation, DevOps tasks |
-| PowerShell | Advanced | Windows automation, system administration |
+| Language | Proficiency | Security Use Case |
+|----------|-------------|------------------|
+| Python | Expert | Security tool development, penetration testing scripts, automation, malware analysis |
+| Go | Advanced | Secure microservices, security tooling, cloud-native security applications |
+| Rust | Advanced | Memory-safe system programming, security-critical applications, exploit development |
+| C/C++ | Expert | Reverse engineering, exploit development, security research, system-level security |
+| Shell Script (Bash) | Expert | Security automation, penetration testing, system hardening scripts |
+| PowerShell | Advanced | Windows security automation, incident response, security auditing |
+| JavaScript | Advanced | Web application security testing, XSS/CSRF analysis, security tool development |
+| SQL | Advanced | Database security, SQL injection testing, security auditing |
 
-### Web Frameworks & Libraries
+### Security Frameworks & Libraries
 
-| Framework | Type | Use Case |
-|-----------|------|----------|
-| Django | Backend | Full-stack web applications |
-| Flask | Backend | Lightweight web services, APIs |
-| FastAPI | Backend | High-performance APIs, async applications |
-| React | Frontend | Modern UI development, SPA |
-| Vue.js | Frontend | Progressive web applications |
-| Angular | Frontend | Enterprise web applications |
-| Node.js | Runtime | Server-side JavaScript |
-| Express | Backend | RESTful APIs, web servers |
-| Spring Boot | Backend | Enterprise Java applications |
-| Next.js | Full-stack | React-based SSR applications |
-| Nuxt.js | Full-stack | Vue-based SSR applications |
+| Framework | Type | Security Use Case |
+|-----------|------|-------------------|
+| Django | Web Framework | Secure web application development, built-in security features |
+| Flask | Web Framework | Lightweight security tool APIs, custom security services |
+| FastAPI | Web Framework | High-performance security APIs, threat intelligence platforms |
+| Scapy | Network Library | Packet manipulation, network security testing, protocol analysis |
+| Requests | HTTP Library | Security tooling, API security testing, web scraping for security |
+| Cryptography | Python Library | Encryption, hashing, secure communication implementation |
+| Paramiko | Python Library | SSH security, secure remote access, automation |
+| Impacket | Python Library | Network protocol security, Windows security research |
 
-### Security Tools & Frameworks
+### Penetration Testing & Security Assessment Tools
 
 | Tool | Category | Purpose |
 |------|----------|---------|
-| Burp Suite | Web Security | Web application security testing |
-| Metasploit | Penetration Testing | Exploit development and testing |
-| Wireshark | Network Analysis | Network protocol analysis |
-| Nmap | Network Scanning | Network discovery and security auditing |
-| OWASP ZAP | Web Security | Automated security testing |
-| Nessus | Vulnerability Scanner | Vulnerability assessment |
-| OpenVAS | Vulnerability Scanner | Open-source vulnerability management |
-| Splunk | SIEM | Security information and event management |
+| Burp Suite | Web Security | Web application security testing, vulnerability scanning |
+| Metasploit | Penetration Testing | Exploit development, penetration testing framework |
+| OWASP ZAP | Web Security | Automated web application security testing |
+| Nmap | Network Scanning | Network discovery, port scanning, security auditing |
+| Wireshark | Network Analysis | Network protocol analysis, packet inspection, forensics |
+| Nessus | Vulnerability Scanner | Vulnerability assessment, compliance checking |
+| OpenVAS | Vulnerability Scanner | Open-source vulnerability management, scanning |
+| Acunetix | Web Security | Web vulnerability scanner, automated security testing |
+| SQLMap | Database Security | Automated SQL injection testing, database security assessment |
+| Nikto | Web Scanner | Web server scanning, vulnerability detection |
+| Aircrack-ng | Wireless Security | WiFi security auditing, wireless penetration testing |
+| John the Ripper | Password Cracking | Password strength testing, security auditing |
+| Hashcat | Password Cracking | Advanced password recovery, security research |
+| Hydra | Brute Force | Network login cracker, security testing |
+| Cobalt Strike | Red Team | Advanced persistent threat simulation, red team operations |
 
-### Cloud Platforms
-
-| Platform | Provider | Services |
-|----------|----------|----------|
-| AWS | Amazon | EC2, S3, Lambda, DynamoDB, etc. |
-| Azure | Microsoft | Virtual Machines, App Services, Cosmos DB |
-| Google Cloud | Google | Compute Engine, Cloud Functions, BigQuery |
-| DigitalOcean | DigitalOcean | Droplets, Managed Databases, Spaces |
-| Heroku | Salesforce | Platform-as-a-Service, app hosting |
-| Oracle Cloud | Oracle | Infrastructure and platform services |
-| IBM Cloud | IBM | Cloud computing and AI services |
-
-### Databases
-
-| Database | Type | Use Case |
-|----------|------|----------|
-| MySQL | Relational | Web applications, general-purpose |
-| PostgreSQL | Relational | Complex queries, data integrity |
-| MongoDB | NoSQL | Document storage, flexible schemas |
-| Redis | In-Memory | Caching, session storage, real-time data |
-| SQLite | Relational | Embedded applications, development |
-| DynamoDB | NoSQL | Serverless applications, AWS ecosystem |
-| Elasticsearch | Search | Full-text search, log analytics |
-| Neo4j | Graph | Relationship data, social networks |
-| Cassandra | NoSQL | Distributed systems, high availability |
-| MariaDB | Relational | MySQL alternative, open-source |
-
-### DevOps & CI/CD Tools
+### Security Information & Event Management (SIEM)
 
 | Tool | Category | Purpose |
 |------|----------|---------|
-| Docker | Containerization | Application containerization |
-| Kubernetes | Orchestration | Container orchestration, scaling |
-| Jenkins | CI/CD | Continuous integration and deployment |
-| GitHub Actions | CI/CD | Automated workflows, GitHub integration |
-| GitLab CI | CI/CD | Integrated CI/CD pipeline |
-| Ansible | Configuration Management | Infrastructure automation |
-| Terraform | Infrastructure as Code | Cloud infrastructure provisioning |
-| CircleCI | CI/CD | Continuous integration platform |
-| Travis CI | CI/CD | Automated testing and deployment |
+| Splunk | SIEM | Security information and event management, log analysis |
+| ELK Stack | SIEM | Elasticsearch, Logstash, Kibana for security log analysis |
+| Wazuh | SIEM | Open-source security monitoring, intrusion detection |
+| OSSEC | HIDS | Host-based intrusion detection system |
+| Snort | IDS/IPS | Network intrusion detection and prevention |
+| Suricata | IDS/IPS | High-performance network IDS/IPS, threat detection |
+| Security Onion | SIEM | Network security monitoring, intrusion detection |
 
-### AI & Automation Tools
+### Security Orchestration & Automation
 
 | Tool | Category | Purpose |
 |------|----------|---------|
-| n8n | Workflow Automation | Visual workflow automation |
-| Zapier | Automation | App integration and automation |
-| OpenAI | AI/ML | Large language models, GPT |
-| LangChain | AI Framework | LLM application development |
-| Pinecone | Vector Database | AI/ML vector search |
-| ChromaDB | Vector Database | Embedding storage and retrieval |
-| Weaviate | Vector Database | Semantic search, ML applications |
-| LlamaIndex | RAG Framework | Retrieval-augmented generation |
-| Hugging Face | AI Platform | Pre-trained models, transformers |
-| Streamlit | AI/ML | Data science web apps |
-| Gradio | AI/ML | Machine learning demos |
+| Ansible | Automation | Security configuration management, infrastructure hardening |
+| Terraform | IaC | Secure infrastructure provisioning, security policy as code |
+| Docker | Containerization | Secure container deployment, security isolation |
+| Kubernetes | Orchestration | Secure container orchestration, security policies |
+| GitLab CI/CD | CI/CD | Secure software delivery, security scanning in pipelines |
+| GitHub Actions | CI/CD | Automated security workflows, vulnerability scanning |
 
-### Testing Frameworks
+### Cloud Security Platforms
 
-| Framework | Language | Type |
-|-----------|----------|------|
-| pytest | Python | Unit and integration testing |
-| JUnit | Java | Unit testing framework |
-| Jest | JavaScript | JavaScript testing framework |
-| Mocha | JavaScript | Feature-rich testing framework |
-| Cypress | JavaScript | End-to-end testing |
-| Playwright | Multi-language | Browser automation and testing |
-| Selenium | Multi-language | Web browser automation |
-| Karma | JavaScript | Test runner for JavaScript |
+| Platform | Provider | Security Services |
+|----------|----------|-------------------|
+| AWS Security | Amazon | IAM, GuardDuty, Security Hub, WAF, Shield |
+| Azure Security | Microsoft | Azure Security Center, Sentinel, Key Vault, AD Security |
+| Google Cloud Security | Google | Cloud Security Command Center, IAM, VPC Security |
+| AWS WAF | Amazon | Web application firewall, DDoS protection |
+| Cloudflare | CDN/Security | DDoS protection, WAF, security services |
 
-### Monitoring & Logging
+### Security Databases & Data Storage
+
+| Database | Type | Security Use Case |
+|----------|------|-------------------|
+| Elasticsearch | Search | Security log storage, threat intelligence, SIEM backend |
+| Redis | In-Memory | Session management, security token storage, caching |
+| PostgreSQL | Relational | Secure data storage, security audit logs |
+| MongoDB | NoSQL | Security event storage, flexible security data schemas |
+
+### AI & Machine Learning for Security
+
+| Tool | Category | Security Purpose |
+|------|----------|-------------------|
+| OpenAI GPT | AI/ML | Security threat analysis, security documentation, code review assistance |
+| LangChain | AI Framework | Security tool development, threat intelligence processing |
+| Hugging Face | AI Platform | Security model training, threat detection models |
+| TensorFlow | ML Framework | Security anomaly detection, threat prediction models |
+| PyTorch | ML Framework | Security research, malware detection models |
+| Scikit-learn | ML Library | Security data analysis, threat classification |
+
+### AI Automation & Workflow Tools
 
 | Tool | Category | Purpose |
 |------|----------|---------|
-| Prometheus | Monitoring | Metrics collection and alerting |
-| Grafana | Visualization | Metrics visualization and dashboards |
-| Kibana | Visualization | Elasticsearch data visualization |
-| Datadog | Monitoring | Infrastructure and application monitoring |
-| New Relic | APM | Application performance monitoring |
-| Splunk | Logging | Log management and analysis |
-| Logstash | Log Processing | Log collection and processing |
+| n8n | Workflow Automation | Security workflow automation, threat response automation |
+| Zapier | Automation | Security tool integration, automated security alerts |
+| OpenAI API | AI/ML | Security analysis automation, threat intelligence processing |
+| LangChain | AI Framework | Security AI applications, automated security analysis |
+| Pinecone | Vector Database | Security threat vector search, similarity matching |
+| ChromaDB | Vector Database | Security embedding storage, threat intelligence retrieval |
+| Weaviate | Vector Database | Security semantic search, threat correlation |
+| LlamaIndex | RAG Framework | Security knowledge base, threat intelligence RAG |
+| Streamlit | AI/ML | Security dashboard development, threat visualization |
+| Gradio | AI/ML | Security tool demos, threat analysis interfaces |
 
-### IDEs & Editors
+### Security Testing & Validation Tools
 
-| IDE/Editor | Language Support | Features |
-|------------|------------------|----------|
-| Visual Studio Code | Multi-language | Lightweight, extensible editor |
-| PyCharm | Python | Python-focused IDE |
-| IntelliJ IDEA | Java, Kotlin | Enterprise Java development |
-| Android Studio | Kotlin, Java | Android app development |
-| Vim/Neovim | Multi-language | Terminal-based editor |
-| Sublime Text | Multi-language | Fast, lightweight editor |
-| Eclipse | Java, C/C++ | Open-source IDE platform |
+| Tool | Category | Purpose |
+|------|----------|---------|
+| OWASP Dependency-Check | Dependency Scanner | Vulnerability scanning in dependencies |
+| Snyk | Security Scanner | Code security scanning, dependency vulnerability detection |
+| SonarQube | Code Quality | Security code analysis, vulnerability detection |
+| Bandit | Python Security | Python security linter, vulnerability detection |
+| Semgrep | Static Analysis | Security-focused static code analysis |
+| Nuclei | Vulnerability Scanner | Fast vulnerability scanner, security testing |
+| Subfinder | Reconnaissance | Subdomain discovery, security reconnaissance |
+| Amass | Reconnaissance | Network mapping, attack surface discovery |
+| Shodan | Search Engine | Internet-connected device search, security research |
 
 ---
 

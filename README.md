@@ -441,6 +441,149 @@
 
 ---
 
+## 📋 Tech Stack Overview
+
+### Programming Languages
+
+| Language | Proficiency | Use Case |
+|----------|-------------|----------|
+| Python | Expert | Security tools, automation, web development |
+| JavaScript | Advanced | Frontend development, Node.js applications |
+| TypeScript | Advanced | Type-safe web applications |
+| Java | Advanced | Enterprise applications, Spring Boot |
+| Go | Intermediate | Microservices, cloud-native applications |
+| Rust | Intermediate | System programming, performance-critical apps |
+| C/C++ | Advanced | System programming, embedded systems |
+| PHP | Intermediate | Web development, server-side scripting |
+| Ruby | Intermediate | Web development, scripting |
+| Shell Script | Expert | Automation, DevOps tasks |
+| PowerShell | Advanced | Windows automation, system administration |
+
+### Web Frameworks & Libraries
+
+| Framework | Type | Use Case |
+|-----------|------|----------|
+| Django | Backend | Full-stack web applications |
+| Flask | Backend | Lightweight web services, APIs |
+| FastAPI | Backend | High-performance APIs, async applications |
+| React | Frontend | Modern UI development, SPA |
+| Vue.js | Frontend | Progressive web applications |
+| Angular | Frontend | Enterprise web applications |
+| Node.js | Runtime | Server-side JavaScript |
+| Express | Backend | RESTful APIs, web servers |
+| Spring Boot | Backend | Enterprise Java applications |
+| Next.js | Full-stack | React-based SSR applications |
+| Nuxt.js | Full-stack | Vue-based SSR applications |
+
+### Security Tools & Frameworks
+
+| Tool | Category | Purpose |
+|------|----------|---------|
+| Burp Suite | Web Security | Web application security testing |
+| Metasploit | Penetration Testing | Exploit development and testing |
+| Wireshark | Network Analysis | Network protocol analysis |
+| Nmap | Network Scanning | Network discovery and security auditing |
+| OWASP ZAP | Web Security | Automated security testing |
+| Nessus | Vulnerability Scanner | Vulnerability assessment |
+| OpenVAS | Vulnerability Scanner | Open-source vulnerability management |
+| Splunk | SIEM | Security information and event management |
+
+### Cloud Platforms
+
+| Platform | Provider | Services |
+|----------|----------|----------|
+| AWS | Amazon | EC2, S3, Lambda, DynamoDB, etc. |
+| Azure | Microsoft | Virtual Machines, App Services, Cosmos DB |
+| Google Cloud | Google | Compute Engine, Cloud Functions, BigQuery |
+| DigitalOcean | DigitalOcean | Droplets, Managed Databases, Spaces |
+| Heroku | Salesforce | Platform-as-a-Service, app hosting |
+| Oracle Cloud | Oracle | Infrastructure and platform services |
+| IBM Cloud | IBM | Cloud computing and AI services |
+
+### Databases
+
+| Database | Type | Use Case |
+|----------|------|----------|
+| MySQL | Relational | Web applications, general-purpose |
+| PostgreSQL | Relational | Complex queries, data integrity |
+| MongoDB | NoSQL | Document storage, flexible schemas |
+| Redis | In-Memory | Caching, session storage, real-time data |
+| SQLite | Relational | Embedded applications, development |
+| DynamoDB | NoSQL | Serverless applications, AWS ecosystem |
+| Elasticsearch | Search | Full-text search, log analytics |
+| Neo4j | Graph | Relationship data, social networks |
+| Cassandra | NoSQL | Distributed systems, high availability |
+| MariaDB | Relational | MySQL alternative, open-source |
+
+### DevOps & CI/CD Tools
+
+| Tool | Category | Purpose |
+|------|----------|---------|
+| Docker | Containerization | Application containerization |
+| Kubernetes | Orchestration | Container orchestration, scaling |
+| Jenkins | CI/CD | Continuous integration and deployment |
+| GitHub Actions | CI/CD | Automated workflows, GitHub integration |
+| GitLab CI | CI/CD | Integrated CI/CD pipeline |
+| Ansible | Configuration Management | Infrastructure automation |
+| Terraform | Infrastructure as Code | Cloud infrastructure provisioning |
+| CircleCI | CI/CD | Continuous integration platform |
+| Travis CI | CI/CD | Automated testing and deployment |
+
+### AI & Automation Tools
+
+| Tool | Category | Purpose |
+|------|----------|---------|
+| n8n | Workflow Automation | Visual workflow automation |
+| Zapier | Automation | App integration and automation |
+| OpenAI | AI/ML | Large language models, GPT |
+| LangChain | AI Framework | LLM application development |
+| Pinecone | Vector Database | AI/ML vector search |
+| ChromaDB | Vector Database | Embedding storage and retrieval |
+| Weaviate | Vector Database | Semantic search, ML applications |
+| LlamaIndex | RAG Framework | Retrieval-augmented generation |
+| Hugging Face | AI Platform | Pre-trained models, transformers |
+| Streamlit | AI/ML | Data science web apps |
+| Gradio | AI/ML | Machine learning demos |
+
+### Testing Frameworks
+
+| Framework | Language | Type |
+|-----------|----------|------|
+| pytest | Python | Unit and integration testing |
+| JUnit | Java | Unit testing framework |
+| Jest | JavaScript | JavaScript testing framework |
+| Mocha | JavaScript | Feature-rich testing framework |
+| Cypress | JavaScript | End-to-end testing |
+| Playwright | Multi-language | Browser automation and testing |
+| Selenium | Multi-language | Web browser automation |
+| Karma | JavaScript | Test runner for JavaScript |
+
+### Monitoring & Logging
+
+| Tool | Category | Purpose |
+|------|----------|---------|
+| Prometheus | Monitoring | Metrics collection and alerting |
+| Grafana | Visualization | Metrics visualization and dashboards |
+| Kibana | Visualization | Elasticsearch data visualization |
+| Datadog | Monitoring | Infrastructure and application monitoring |
+| New Relic | APM | Application performance monitoring |
+| Splunk | Logging | Log management and analysis |
+| Logstash | Log Processing | Log collection and processing |
+
+### IDEs & Editors
+
+| IDE/Editor | Language Support | Features |
+|------------|------------------|----------|
+| Visual Studio Code | Multi-language | Lightweight, extensible editor |
+| PyCharm | Python | Python-focused IDE |
+| IntelliJ IDEA | Java, Kotlin | Enterprise Java development |
+| Android Studio | Kotlin, Java | Android app development |
+| Vim/Neovim | Multi-language | Terminal-based editor |
+| Sublime Text | Multi-language | Fast, lightweight editor |
+| Eclipse | Java, C/C++ | Open-source IDE platform |
+
+---
+
 ## 📊 GitHub Analytics
 
 <br>

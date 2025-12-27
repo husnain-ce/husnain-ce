@@ -622,18 +622,24 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/husnain-ce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnain-ce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnain-ce&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</a>
+<p align="center">
+  <a href="https://github.com/husnain-ce">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=husnain-ce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=husnain-ce&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=7&row=1&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Trophies"/>
+</p>
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ### 📊 Contribution Graph
 

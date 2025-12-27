@@ -20,26 +20,26 @@
 
 <br>
 
-### 💼 Professional Experience
+### Professional Experience
 
-- 🏢 **Former CTO** at **Attack Insights** - Led technical strategy and development for ASM (Attack Surface Management) product
-- 🚀 **Product Lead** at **Surfaceer** - Directed product development and strategy for ASM (Attack Surface Management) solutions
-- 🎯 **Founder** of **AQSEC** - Established and built a cybersecurity-focused organization from the ground up
+- **Former CTO** at **Attack Insights** - Led technical strategy and development for ASM (Attack Surface Management) product
+- **Product Lead** at **Surfaceer** - Directed product development and strategy for ASM (Attack Surface Management) solutions
+- **Founder** of **AQSEC** - Established and built a cybersecurity-focused organization from the ground up
 
-### 👨‍💻 Expertise & Skills
+### Expertise & Skills
 
-- 🔐 **Passionate Security Researcher** and **Self-Driven Leader** with extensive expertise in cybersecurity, penetration testing, and vulnerability assessment
-- 👥 **Team Lead** managing cross-functional teams for Cyber Security and Software Development projects, fostering collaboration and driving innovation
-- 🐍 **Python Lead Developer** specializing in security-focused applications, automation tools, and secure coding practices
-- 🔍 **IAM Analyst** with deep understanding of identity and access management, authentication protocols, and security policies
-- 🛡️ **Security Enthusiast** with hands-on experience in threat analysis, incident response, and security architecture design
-- 🚀 **Agile Practitioner** experienced in Scrum methodologies, sprint planning, and delivering high-quality software solutions
-- 📚 **Continuous Learner** always exploring new technologies, security frameworks, and best practices in the cybersecurity domain
-- 🎯 **Problem Solver** with a strategic mindset, adept at identifying security vulnerabilities and implementing robust solutions
-- 💡 **Innovation Driver** passionate about developing cutting-edge security tools and contributing to open-source security projects
-- 🌐 **Collaborative Professional** experienced in working with global teams and managing distributed development workflows
-- 📊 **Analytical Thinker** skilled in risk assessment, security auditing, and compliance management
-- 💼 Currently open for **Cyber Security Job Roles, Services & Projects** - Let's connect and discuss how I can contribute to your security initiatives!
+- **Passionate Security Researcher** and **Self-Driven Leader** with extensive expertise in cybersecurity, penetration testing, and vulnerability assessment
+- **Team Lead** managing cross-functional teams for Cyber Security and Software Development projects, fostering collaboration and driving innovation
+- **Python Lead Developer** specializing in security-focused applications, automation tools, and secure coding practices
+- **IAM Analyst** with deep understanding of identity and access management, authentication protocols, and security policies
+- **Security Enthusiast** with hands-on experience in threat analysis, incident response, and security architecture design
+- **Agile Practitioner** experienced in Scrum methodologies, sprint planning, and delivering high-quality software solutions
+- **Continuous Learner** always exploring new technologies, security frameworks, and best practices in the cybersecurity domain
+- **Problem Solver** with a strategic mindset, adept at identifying security vulnerabilities and implementing robust solutions
+- **Innovation Driver** passionate about developing cutting-edge security tools and contributing to open-source security projects
+- **Collaborative Professional** experienced in working with global teams and managing distributed development workflows
+- **Analytical Thinker** skilled in risk assessment, security auditing, and compliance management
+- Currently open for **Cyber Security Job Roles, Services & Projects** - Let's connect and discuss how I can contribute to your security initiatives!
 
 ---
 
@@ -403,6 +403,40 @@
   <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white"></a>
   <a href="https://www.nuget.org/"><img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white"></a>
   <a href="https://composer.org/"><img alt="Composer" src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white"></a>
+</p>
+
+### 🤖 AI & Automation Tools
+
+<p align="left">
+  <a href="https://n8n.io/"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5B?logo=n8n&logoColor=white"></a>
+  <a href="https://zapier.com/"><img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white"></a>
+  <a href="https://www.make.com/"><img alt="Make" src="https://img.shields.io/badge/Make-000000?logo=make&logoColor=white"></a>
+  <a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"></a>
+  <a href="https://www.anthropic.com/"><img alt="Anthropic Claude" src="https://img.shields.io/badge/Anthropic%20Claude-CC7856?logo=anthropic&logoColor=white"></a>
+  <a href="https://www.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"></a>
+  <a href="https://www.pinecone.io/"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white"></a>
+  <a href="https://www.chromadb.com/"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B6B?logo=chromadb&logoColor=white"></a>
+  <a href="https://weaviate.io/"><img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-4C63D2?logo=weaviate&logoColor=white"></a>
+  <a href="https://www.llamaindex.ai/"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-412991?logo=llamaindex&logoColor=white"></a>
+  <a href="https://huggingface.co/"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white"></a>
+  <a href="https://www.streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"></a>
+  <a href="https://gradio.app/"><img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6B6B?logo=gradio&logoColor=white"></a>
+  <a href="https://www.automationanywhere.com/"><img alt="Automation" src="https://img.shields.io/badge/Automation-FF6B6B?logo=automation&logoColor=white"></a>
+  <a href="https://www.chatbot.com/"><img alt="Chatbot" src="https://img.shields.io/badge/Chatbot-FF6B6B?logo=chatbot&logoColor=white"></a>
+  <a href="https://www.dialogflow.com/"><img alt="Dialogflow" src="https://img.shields.io/badge/Dialogflow-FF9800?logo=dialogflow&logoColor=white"></a>
+  <a href="https://rasa.com/"><img alt="Rasa" src="https://img.shields.io/badge/Rasa-5A17EE?logo=rasa&logoColor=white"></a>
+</p>
+
+### 🔍 RAG (Retrieval-Augmented Generation) & Vector Databases
+
+<p align="left">
+  <a href="https://www.pinecone.io/"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white"></a>
+  <a href="https://www.chromadb.com/"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B6B?logo=chromadb&logoColor=white"></a>
+  <a href="https://weaviate.io/"><img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-4C63D2?logo=weaviate&logoColor=white"></a>
+  <a href="https://www.llamaindex.ai/"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-412991?logo=llamaindex&logoColor=white"></a>
+  <a href="https://www.milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-00D8FF?logo=milvus&logoColor=white"></a>
+  <a href="https://qdrant.tech/"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF6B6B?logo=qdrant&logoColor=white"></a>
+  <a href="https://www.elastic.co/elasticsearch/"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white"></a>
 </p>
 
 ---

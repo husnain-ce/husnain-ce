@@ -1,0 +1,45 @@
+name: Daily Commit
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (adjust timezone as needed)
+    # To change time, modify the cron: '0 0 * * *' format
+    # Format: minute hour day month day-of-week
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write # Required for pushing commits
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Git config
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+    - name: Create .github directory if it doesn't exist
+      run: |
+        mkdir -p .github
+
+    - name: Update commit file
+      run: |
+        echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/daily-commit.txt
+        echo "Daily commit to maintain GitHub activity streak" >> .github/daily-commit.txt
+        echo "" >> .github/daily-commit.txt
+        echo "This file is automatically updated by GitHub Actions workflow." >> .github/daily-commit.txt
+
+    - name: Commit and push changes
+      run: |
+        git add .github/daily-commit.txt
+        git diff --staged --quiet && echo "No changes to commit" || git commit -m "chore: daily commit - $(date -u '+%Y-%m-%d')"
+        git push || echo "Push failed or no changes to push"
+

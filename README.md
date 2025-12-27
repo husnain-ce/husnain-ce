@@ -631,15 +631,11 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Trophies"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2)
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=husnain-ce&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=husnain-ce&theme=gotham&hide_border=true)
 
 ### 📊 Contribution Graph
 

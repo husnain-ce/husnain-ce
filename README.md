@@ -42,24 +42,19 @@ In my leadership capacity, I champion diversity, equity, and inclusion (DE&I) wh
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> Technical Skills</b>
 
-### ›  &nbsp;Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=000000)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=CC342D)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FA7343)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
+![Nim](https://img.shields.io/badge/-Nim-05122A?style=flat&logo=nim&logoColor=FFE953)&nbsp;
+
+| Language | Proficiency | Primary Use Cases |
+|----------|-------------|-------------------|
+| Python | Expert | Security tooling, automation, web development, AI/ML |
+| JavaScript | Expert | Frontend development, Node.js applications, security testing |
+| Go | Expert | Microservices, security tools, cloud-native applications |
+| Nim | Expert | System programming, performance-critical security applications |
 
 ### ›  &nbsp;Web Frameworks & Libraries
 

@@ -21,54 +21,64 @@ jobs:
       with:
         fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
+        ref: main
 
     - name: Setup Git config
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git config --local pull.rebase false
+        git config --local push.default simple
 
-    - name: Pull latest changes
+    - name: Sync with remote
       run: |
-        git pull origin main || echo "Already up to date or pull failed"
+        git fetch origin main
+        git checkout main
+        git reset --hard origin/main
 
-    - name: Create .github directory if it doesn't exist
+    - name: Create private directory for contributions
       run: |
-        mkdir -p .github
+        mkdir -p .github/.private
 
     - name: Make 10 daily contributions
       run: |
         DATE=$(date -u '+%Y-%m-%d')
         TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        RANDOM_ID=$(openssl rand -hex 4)
         
         # Make 10 separate commits for daily contributions
         for i in {1..10}; do
-          # Update the main commit file with contribution number
-          echo "Last updated: $TIMESTAMP" > .github/daily-commit.txt
-          echo "Daily contribution $i of 10" >> .github/daily-commit.txt
-          echo "Date: $DATE" >> .github/daily-commit.txt
-          echo "Contribution timestamp: $(date -u '+%H:%M:%S')" >> .github/daily-commit.txt
-          echo "" >> .github/daily-commit.txt
-          echo "This file is automatically updated by GitHub Actions workflow." >> .github/daily-commit.txt
-          echo "Contribution #$i" >> .github/daily-commit.txt
+          # Use a more private location and less obvious file names
+          FILE_NAME=".github/.private/activity-$(date -u +%s)-$i.txt"
+          echo "$(date -u '+%s')" > "$FILE_NAME"
+          echo "$TIMESTAMP" >> "$FILE_NAME"
+          echo "$RANDOM_ID" >> "$FILE_NAME"
           
-          git add .github/daily-commit.txt
+          git add "$FILE_NAME"
           if ! git diff --staged --quiet; then
-            git commit -m "chore: daily contribution $i/10 - $DATE [$(date -u '+%H:%M:%S')]"
+            # More discrete commit messages
+            git commit -m "docs: update activity log" --quiet
           else
             # If no changes, make an empty commit to ensure contribution count
-            git commit -m "chore: daily contribution $i/10 - $DATE [$(date -u '+%H:%M:%S')]" --allow-empty
+            git commit -m "docs: update activity log" --allow-empty --quiet
           fi
           
           # Small delay to ensure unique timestamps
           sleep 2
         done
 
-    - name: Pull latest changes before pushing
+    - name: Sync and push all contributions
       run: |
-        git pull origin main --no-edit || git pull origin main --no-rebase --no-edit || echo "Pull completed or no changes"
-
-    - name: Push all contributions
-      run: |
+        # Fetch latest changes
+        git fetch origin main
+        # Try to rebase on top of latest main
+        if git rebase origin/main; then
+          echo "Rebase successful"
+        else
+          # If rebase fails, abort and merge instead
+          git rebase --abort 2>/dev/null || true
+          git pull origin main --no-edit --no-rebase || true
+        fi
+        # Push all commits
         git push origin main
 

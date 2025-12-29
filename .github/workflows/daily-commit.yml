@@ -20,11 +20,17 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Git config
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+        git config --local pull.rebase false
+
+    - name: Pull latest changes
+      run: |
+        git pull origin main || echo "Already up to date or pull failed"
 
     - name: Create .github directory if it doesn't exist
       run: |
@@ -44,7 +50,8 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "chore: daily commit - $(date -u '+%Y-%m-%d')"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push origin HEAD:main
+          # Pull latest changes before pushing to avoid conflicts
+          git pull origin main --no-edit || git pull origin main --no-rebase --no-edit
+          git push origin main
         fi
 

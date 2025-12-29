@@ -36,22 +36,39 @@ jobs:
       run: |
         mkdir -p .github
 
-    - name: Update commit file
+    - name: Make 10 daily contributions
       run: |
-        echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/daily-commit.txt
-        echo "Daily commit to maintain GitHub activity streak" >> .github/daily-commit.txt
-        echo "" >> .github/daily-commit.txt
-        echo "This file is automatically updated by GitHub Actions workflow." >> .github/daily-commit.txt
+        DATE=$(date -u '+%Y-%m-%d')
+        TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        
+        # Make 10 separate commits for daily contributions
+        for i in {1..10}; do
+          # Update the main commit file with contribution number
+          echo "Last updated: $TIMESTAMP" > .github/daily-commit.txt
+          echo "Daily contribution $i of 10" >> .github/daily-commit.txt
+          echo "Date: $DATE" >> .github/daily-commit.txt
+          echo "Contribution timestamp: $(date -u '+%H:%M:%S')" >> .github/daily-commit.txt
+          echo "" >> .github/daily-commit.txt
+          echo "This file is automatically updated by GitHub Actions workflow." >> .github/daily-commit.txt
+          echo "Contribution #$i" >> .github/daily-commit.txt
+          
+          git add .github/daily-commit.txt
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: daily contribution $i/10 - $DATE [$(date -u '+%H:%M:%S')]"
+          else
+            # If no changes, make an empty commit to ensure contribution count
+            git commit -m "chore: daily contribution $i/10 - $DATE [$(date -u '+%H:%M:%S')]" --allow-empty
+          fi
+          
+          # Small delay to ensure unique timestamps
+          sleep 2
+        done
 
-    - name: Commit and push changes
+    - name: Pull latest changes before pushing
       run: |
-        git add .github/daily-commit.txt
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "chore: daily commit - $(date -u '+%Y-%m-%d')"
-          # Pull latest changes before pushing to avoid conflicts
-          git pull origin main --no-edit || git pull origin main --no-rebase --no-edit
-          git push origin main
-        fi
+        git pull origin main --no-edit || git pull origin main --no-rebase --no-edit || echo "Pull completed or no changes"
+
+    - name: Push all contributions
+      run: |
+        git push origin main
 

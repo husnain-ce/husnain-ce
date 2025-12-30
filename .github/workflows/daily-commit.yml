@@ -16,6 +16,16 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - name: Verify PAT Token
+      run: |
+        if [ -z "${{ secrets.PAT_TOKEN }}" ]; then
+          echo "::error::PAT_TOKEN secret is not set!"
+          echo "Please add your Personal Access Token to repository secrets as PAT_TOKEN"
+          echo "Go to: Settings > Secrets and variables > Actions > New repository secret"
+          exit 1
+        fi
+        echo "PAT_TOKEN is configured"
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
@@ -26,10 +36,21 @@ jobs:
     - name: Setup Git config
       run: |
         # Use your actual GitHub email and username so commits count toward contributions
-        git config --local user.email "husnain-ce@users.noreply.github.com"
+        # IMPORTANT: Email must match the one associated with your GitHub account
+        git config --local user.email "bitsol44@gmail.com"
         git config --local user.name "husnain-ce"
         git config --local pull.rebase false
         git config --local push.default simple
+        # Verify git config
+        echo "Git user: $(git config user.name)"
+        echo "Git email: $(git config user.email)"
+
+    - name: Configure remote for PAT
+      run: |
+        # Configure remote URL to use PAT token for authentication
+        # This ensures commits are attributed to your account, not the bot
+        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+        echo "Remote configured with PAT token"
 
     - name: Sync with remote
       run: |
@@ -46,6 +67,9 @@ jobs:
         DATE=$(date -u '+%Y-%m-%d')
         TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
         RANDOM_ID=$(openssl rand -hex 4)
+        
+        # Verify we're using the correct identity before committing
+        echo "Committing as: $(git config user.name) <$(git config user.email)>"
         
         # Make 10 separate commits for daily contributions
         for i in {1..10}; do
@@ -67,11 +91,10 @@ jobs:
           # Small delay to ensure unique timestamps
           sleep 2
         done
-
-    - name: Configure remote for PAT
-      run: |
-        # Configure remote URL to use PAT token for authentication
-        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+        
+        # Show recent commits to verify author
+        echo "Recent commits:"
+        git log --oneline -5 --pretty=format:"%h - %an (%ae) : %s"
 
     - name: Sync and push all contributions
       run: |

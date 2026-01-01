@@ -103,11 +103,9 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js&logoColor=000000)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 </div>
 
@@ -123,19 +121,29 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <td>Web applications, security APIs</td>
 </tr>
 <tr>
-<td><b>React, Vue.js, Angular</b></td>
+<td><b>React</b></td>
 <td>Frontend</td>
 <td>Modern UI, security dashboards</td>
 </tr>
 <tr>
-<td><b>Node.js, Express</b></td>
+<td><b>Node.js</b></td>
 <td>Runtime</td>
 <td>Server-side, security tooling</td>
 </tr>
 <tr>
-<td><b>Next.js, Nuxt.js</b></td>
+<td><b>Next.js</b></td>
 <td>Full-stack</td>
 <td>SSR applications</td>
+</tr>
+<tr>
+<td><b>gRPC</b></td>
+<td>RPC Framework</td>
+<td>High-performance microservices communication</td>
+</tr>
+<tr>
+<td><b>Microservices Architecture</b></td>
+<td>Architecture</td>
+<td>Distributed systems, scalable service design</td>
 </tr>
 </table>
 
@@ -340,6 +348,7 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <div align="left">
 
 <a href="https://www.kali.org/" target="_blank"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+<a href="https://tails.boum.org/" target="_blank"><img alt="Tails" src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"></a>
 <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -358,6 +367,11 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <td>Penetration testing, security research</td>
 </tr>
 <tr>
+<td><b>Tails</b></td>
+<td>Linux</td>
+<td>Privacy-focused OS, anonymous browsing, security research</td>
+</tr>
+<tr>
 <td><b>Ubuntu, Debian</b></td>
 <td>Linux</td>
 <td>Development, server deployment</td>
@@ -374,8 +388,7 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <div align="left">
 
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a href="https://cursor.sh/" target="_blank"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"></a>
 <a href="https://www.vim.org/" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a>
 <a href="https://neovim.io/" target="_blank"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
 
@@ -388,9 +401,9 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <th>Features</th>
 </tr>
 <tr>
-<td><b>VS Code, PyCharm</b></td>
+<td><b>VS Code, Cursor</b></td>
 <td>Multi-language</td>
-<td>Primary development environments</td>
+<td>Primary development environments, AI-powered coding</td>
 </tr>
 <tr>
 <td><b>Vim/Neovim</b></td>
@@ -474,6 +487,7 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 
 <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
 <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
+<a href="https://www.elastic.co/kibana/"><img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"></a>
 <a href="https://www.splunk.com/"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"></a>
 <a href="https://www.datadoghq.com/"><img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"></a>
 
@@ -491,7 +505,12 @@ As a leader, I champion **diversity, equity, and inclusion (DE&I)** while foster
 <td>Metrics collection and visualization</td>
 </tr>
 <tr>
-<td><b>Splunk, ELK Stack</b></td>
+<td><b>Kibana, ELK Stack</b></td>
+<td>SIEM</td>
+<td>Log visualization, data exploration, security analysis</td>
+</tr>
+<tr>
+<td><b>Splunk</b></td>
 <td>SIEM</td>
 <td>Log management, security analysis</td>
 </tr>

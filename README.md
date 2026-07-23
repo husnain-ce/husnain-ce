@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/husnain-ce/husnain-ce/blob/main/profile-photo.jpg?raw=true" alt="Muhammad Husnain" width="180" />
+![Profile Banner](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)
 
 # Muhammad Husnain
 

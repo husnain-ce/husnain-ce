@@ -14,7 +14,7 @@ Redesign the GitHub profile README into a clean, enterprise-grade Tech Showcase 
 |---|---|---|
 | Archetype | Tech Showcase | Skills grid + featured projects; lighter career narrative |
 | Featured projects | Auto-curated (6 repos) | Strongest defensible security/AI work |
-| Analytics | Full widgets | User preference; stats, trophies, streak, graph, WakaTime |
+| Analytics | Full widgets (no trophies) | Stats, streak, graph, WakaTime; trophies removed (unreliable third-party service) |
 | Tone | Enterprise professional | Removed "grey hat" language; impact-focused copy |
 | Animations | 1 typing SVG + 1 banner GIF | Reduced visual noise from duplicate animations |
 
@@ -24,7 +24,7 @@ Redesign the GitHub profile README into a clean, enterprise-grade Tech Showcase 
 2. **About** — 4 bullet points (current role, focus, leadership, open to)
 3. **Featured Projects** — 2×3 table with impact descriptions and tech badges
 4. **Technical Expertise** — 6 badge-only groups (no redundant HTML tables)
-5. **GitHub Analytics** — Unified algolia/github-dark theme across all widgets
+5. **GitHub Analytics** — Unified algolia/github-dark theme (stats, streak, graph, WakaTime; no trophies)
 6. **Connect** — Shields.io badges for LinkedIn, GitHub, Stack Overflow, website
 
 ## Featured Projects

@@ -168,10 +168,6 @@ Global AI and LLM platforms directory with links, lists, and cheatsheets.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=husnain-ce&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-### Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=husnain-ce&theme=onestar&no-frame=true&column=3&row=2)
-
 ### Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=husnain-ce&theme=gotham&hide_border=true)

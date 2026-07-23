@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://github.com/husnain-ce/husnain-ce/blob/main/prorfile-bg-1.gif)
+<img src="https://github.com/husnain-ce/husnain-ce/blob/main/profile-photo.jpg?raw=true" alt="Muhammad Husnain" width="180" />
 
 # Muhammad Husnain
 
@@ -10,8 +10,8 @@ Building enterprise security products at the intersection of AI, automation, and
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Cyber+Security+Lead;Technology+Head+%C2%B7+Cyber+Security+Products;Python+%C2%B7+Go+%C2%B7+AI%2FML+%C2%B7+Offensive+Security)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-cyberevangelists.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cyberevangelists.com)
-[![Company](https://img.shields.io/badge/Cyber_Evangelists-%7C_AQSEC-05122A?style=for-the-badge&logo=shield&logoColor=3FB950)](https://www.cyberevangelists.com)
+[![Website](https://img.shields.io/badge/Website-aqsec.co-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aqsec.co)
+[![Company](https://img.shields.io/badge/Cyber_Evangelists-%7C_AQSEC-05122A?style=for-the-badge&logo=shield&logoColor=3FB950)](https://aqsec.co)
 [![Profile Views](https://komarev.com/ghpvc/?username=husnain-ce&abbreviated=true&color=58A6FF)](https://github.com/husnain-ce)
 
 </div>
@@ -197,6 +197,6 @@ Global AI and LLM platforms directory with links, lists, and cheatsheets.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhusnainsarwar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-ce)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14855733/husnain-sarwar?tab=profile)
-[![Website](https://img.shields.io/badge/Website-cyberevangelists.com-05122A?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://www.cyberevangelists.com)
+[![Website](https://img.shields.io/badge/Website-aqsec.co-05122A?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://aqsec.co)
 
 </div>
